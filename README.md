@@ -1,0 +1,4 @@
+checkers
+========
+
+simple checkers game
